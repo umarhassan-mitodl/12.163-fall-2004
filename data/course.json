@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ]
+  ],
+  "legacy_uid": "be8b375f-acf7-e291-de2a-d201ffd88767",
+  "instructors": {
+    "content": [
+      "99da4b49-9373-f0ad-2a5a-dcd3a51ac045",
+      "c2ebfef2-0f89-6231-1aef-d3b8aa30e0c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9434e228-6607-0e53-31c6-2d44c5ebb961",
+    "website": "12-163-surface-processes-and-landscape-evolution-fall-2004"
+  },
+  "course_title": "Surface Processes and Landscape Evolution",
+  "course_description": "The course offers an introduction to quantitative analysis of geomorphic processes, and examines the interaction of climate, tectonics, and surface processes in the sculpting of Earth's surface.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.463",
+  "primary_course_number": "12.163",
+  "course_image_thumbnail": {
+    "content": "eb8e4af2-ee6c-1afb-c78c-0e3f1bf4e161",
+    "website": "12-163-surface-processes-and-landscape-evolution-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "39596c61-c8ed-4fdb-8909-5eb81d5b422f",
+  "site_short_id": "12.163-fall-2004",
+  "site_url_path": "courses/12-163-surface-processes-and-landscape-evolution-fall-2004",
+  "title": "Course Metadata"
+}
